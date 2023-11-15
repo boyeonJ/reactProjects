@@ -130,3 +130,11 @@
     max-width: 45rem;
   } */
 }
+
+/* about */
+
+.section-center {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1rem;
+}

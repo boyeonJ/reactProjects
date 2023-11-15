@@ -1,5 +1,11 @@
+import Title from './Title';
+
 const Tours = () => {
-    return <h1>Tours</h1>;
+    return (
+        <section className='section' id='tours'>
+            <Title title="featured" sub="tours"/>
+        </section>
+    );
 }
 
 
